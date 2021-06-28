@@ -1,21 +1,13 @@
 +++
 title = "About"
-date = "2019-01-25"
-author = "Radek"
+date = "2021-05-29"
+author = "arifsetyo21"
 +++
 
 # Hi there
 
-My name is Radek and I'm the author of this theme. I made it to help you present your ideas easier.
+Hey, I'm Arif! I'm a developer freelance from Indonesia. This is my spot on the web for projects I've created, blog I've written, and anything else I want to show to you.
 
-We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
+I love learning something new and to create useful and effective tools with code which can help other do work.
 
-This theme is pretty basic and covers all of the essentials. All you have to do is start typing!
-
-The theme includes:
-
-- **light/dark mode**, depending on your preferences
-- great reading experience thanks to [**Inter UI font**](https://rsms.me/inter/), made by [Rasmus Andersson](https://rsms.me/about/)
-- nice code highlighting thanks to [**PrismJS**](https://prismjs.com)
-
-So, there you have it... enjoy!
+I'm human too and forgetful, so instead of my brain lost old material when i start learn something new, i decide to document it.
