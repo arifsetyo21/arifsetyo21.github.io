@@ -2,8 +2,10 @@ baseurl = "/"
 languageCode = "en-us"
 theme = "hello-friend"
 paginate = 5
+author = "arifsetyo21"
 
 disqusShortname = "arifsetyo21"
+comments = true
 
 [params]
   # dir name of your blog content (default is `content/posts`).
