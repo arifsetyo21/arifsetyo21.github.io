@@ -5,7 +5,7 @@ paginate = 5
 author = "arifsetyo21"
 
 disqusShortname = "arifsetyo21"
-comments = true
+Comments = true
 
 [params]
   # dir name of your blog content (default is `content/posts`).
